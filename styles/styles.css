@@ -1,0 +1,61 @@
+body {
+    background-color: #E5E5E5;
+}
+
+main {
+    max-width: 870px;
+}
+
+.top-player {
+    background-color: white;
+}
+
+.bg-nav {
+    background-color: #562EFF;
+}
+
+.navbar img {
+    width: 40px;
+}
+
+.player img {
+    width: 56px;
+}
+
+.players {
+    border-bottom: 1px solid #D1D1D1;
+}
+
+.top-blog img {
+    width: 177px;
+    height: 117px;
+}
+
+.top-blog .row .col-12, .latest-course .row .col-12 {
+    text-align: center;
+}
+
+.top-blog .col-md-6, .latest-course .row .col-md-4 {
+    text-align: left;
+}
+
+.top-blog .col-sm-6, .latest-course .row .col-sm-6 {
+    text-align: left;
+}
+
+.top-blog .col-12 img {
+    width: 177px;
+    height: 117px;
+}
+
+.course-img {
+    width: 225px;
+}
+
+.stars {
+    width: 75px;
+}
+
+.star {
+    width: 20%;
+}
